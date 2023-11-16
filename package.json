@@ -17,7 +17,8 @@
 		"index.js",
 		"cli.js",
 		"lib",
-		"vendor/source"
+		"vendor/source",
+		"vendor/linux/arm64"
 	],
 	"keywords": [
 		"imagemin",
